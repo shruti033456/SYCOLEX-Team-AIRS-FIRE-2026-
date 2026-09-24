@@ -6,13 +6,13 @@ The project investigates whether language models exhibit sycophantic behavior wh
 
 ## Repository Contents
 
-* `SYCOLEX_experiments.ipynb` — Main notebook containing the experimental implementation.
+* `SYCOLEX_TASK2.ipynb` — Main notebook containing the experimental implementation.
 * `README.md` — Project description and reproducibility instructions.
 
 ## Running the Experiments
 * Clone or download this repository.
 * Install the required Python packages: pip install -r requirements.txt
-* Open SYCOLEX_experiments.ipynb and configure the dataset path according to the instructions in the notebook.
+* Open SYCOLEX_TASK2.ipynb and configure the dataset path according to the instructions in the notebook.
 
 
 ## Model
